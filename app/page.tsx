@@ -17,7 +17,6 @@ export default function HomePage() {
       <MissionSection />
       <FounderSection />
       <FundersSection />
-      <StoriesSection />
       <CallToActionSection />
       <Footer />
     </main>
